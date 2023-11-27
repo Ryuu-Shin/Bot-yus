@@ -36,7 +36,7 @@ export default {
 
    // Set your URL and API key here
    APIs: {
-      xfarr: {
+      xfarr: 'vDGHrwjpmI',
          baseURL: 'https://api.xfarr.com',
          Key: "buy on https://api.xfarr.com/pricing"
       }
