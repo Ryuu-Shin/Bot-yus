@@ -10,7 +10,7 @@ const menu = {
    convert: ["sticker", "toimage"],
    group: ["hidetag", "add", "welcome", "leaving", "setprofile", "setname", "linkgroup"],
    tool: ["fetch", "ssweb", "rvo", "blackbox", "ai", "diffusion", "animediffusion"],
-   download: ["tiktok", "instagram", "facebook", "drive", "imgur", "mediafire", "pinterest", "twitter", "ytv", "yta", "apk", "spotify"],
+   download: ["tiktok", "instagram", "facebook", "drive", "imgur", "mediafire", "pinterest", "twitter", "ytv", "yta", "spotify"],
    search: ["pinterest", "lirik", "chord"],
    education: ["wikipedia"],
    islami: ["quran", "nabi"],
@@ -55,9 +55,9 @@ export default {
 
    // Set pack name sticker on here
    Exif: {
-      packId: "https://dikaardnt.my.id",
+      packId: "https://www.instagram.com/ryuu__poi/",
       packName: `Sticker Created By Bot :`,
-      packPublish: "Jayus",
+      packPublish: "Yus",
       packEmail: "mi915999@gmail.com",
       packWebsite: "https://www.instagram.com/ryuu__poi/",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
