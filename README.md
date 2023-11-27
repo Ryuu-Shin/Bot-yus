@@ -151,7 +151,7 @@ npm run dev
 ```
 
 ## Login With Pairing Code
-or type your number in [`here`](https://github.com/Ryuu-Shin/Clone-bot-wa/blob/master/config.js#L50)
+or type your number in [`here`](https://github.com/Ryuu-Shin/Clone-bot-wa/blob/master/config.js#L53)
 ```sh
 node index.js --pairing-code
 ```
