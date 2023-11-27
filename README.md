@@ -128,12 +128,12 @@ node --version
 
 Cloning the Repository
 ```
-git clone https://github.com/Ryuu-Shin/Clone-bot-wa.git
+git clone https://github.com/Ryuu-Shin/bot-yus.git
 ```
 
 Go to the project directory and install all dependencies.</br>
 ```sh
-cd Clone-bot-wa
+cd bot-yus
 ```
 ```sh
 npm i
